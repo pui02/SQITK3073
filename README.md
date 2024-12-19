@@ -33,4 +33,5 @@ Before running the project, ensure you have the following:
 
 Install the required libraries using:
 ```bash
-pip install pandas yfinance
+pip install pandas
+pip install yfinance
